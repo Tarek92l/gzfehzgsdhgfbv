@@ -1,1 +1,7 @@
-.. include:: ../HISTORY.rst
+=======
+History
+=======
+
+Install the package with pip::
+
+    $ pip install read-the-docs-template
