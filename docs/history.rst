@@ -12,8 +12,6 @@ Ethernet interface to which the license is attached then enter the
 license file. Push the **Apply** button to validate.
 
 .. image:: example.png
-:alt: Figure 1
-:align: center
 
 If the license is valid, the editors and every features are enabled
 otherwise an error message is displayed on this page and the main
